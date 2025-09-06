@@ -207,5 +207,10 @@ marimo/_lsp/
 __marimo__/
 Anaconda3-2022.05-Linux-x86_64.sh
 
-
+## data files added by user
 /01-intro/data/*
+/02-experiment-tracking/data/*
+/02-experiment-tracking/models/*
+mlflow.db
+/02-experiment-tracking/mlruns/*
+/02-experiment-tracking/mlflow.db
